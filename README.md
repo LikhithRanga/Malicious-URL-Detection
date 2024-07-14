@@ -26,5 +26,7 @@ This project is a Flask-based web application that allows users to register, log
 
 Make sure you have Python 3.x installed. You will also need the following libraries:
 
+### NOTE: REFER DOCUMENTATION FOR COMPLETE DETAIL OF THE PROJECT..
+
 ```bash
 pip install Flask Flask-SQLAlchemy Flask-Bcrypt Flask-JWT-Extended pandas scikit-learn
