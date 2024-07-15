@@ -30,3 +30,5 @@ Make sure you have Python 3.x installed. You will also need the following librar
 
 ```bash
 pip install Flask Flask-SQLAlchemy Flask-Bcrypt Flask-JWT-Extended pandas scikit-learn
+
+### NOTE: REFER DOCUMENTATION FOR COMPLETE DETAIL OF THE PROJECT..
